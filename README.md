@@ -4,3 +4,6 @@ esnet is a library for recurrent neural networks using reservoir computing / ech
 
 
 This package is an upgraded version of easyesn accessible from here: https://github.com/kalekiu/easyesn, which is based on the research results for the gradient based hyperparameter optimization and transient time estimation of Luca Thiede and the spatio temporal prediction and classification techniques of Roland Zimmermann.
+
+
+Code by Ilyas Ed-daoui
